@@ -1,1 +1,2 @@
 # python-quiz-game
+"This project is a simple command-line Quiz Game built in Python. It asks multiple-choice questions, lets the user enter their answers, and provides instant feedback (correct or wrong). At the end of the quiz, it shows the correct answers, the user’s guesses, and their final score. This beginner-friendly project demonstrates Python basics such as loops, conditionals, tuples, and user input, while also being fun to play and easy to expand with more questions."
