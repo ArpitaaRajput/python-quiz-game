@@ -1,4 +1,4 @@
-questions = ("How many elemsnts are in the periodic table? :",
+questions = ("How many elements are in the periodic table? :",
               "Which animal lays the largest eggs?:",
               "What is the most abundant gas in Earth's atnosphere?:",
               "Which planet in the solar system is hottest?:")
@@ -34,4 +34,5 @@ print("                        RESULT                             ")
 print("-----------------------------------------------------------")
 print("Answers: ", answers)
 print("Guesses: ", guesses)
+
 print(f"Your score: {score}/{len(questions)}")
